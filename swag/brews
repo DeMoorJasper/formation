@@ -2,3 +2,5 @@ git
 mas
 wget
 yarn
+cmake
+ninja
